@@ -16,7 +16,7 @@ body {
     border: 1px;
     position: sticky;
     top: 0px;
-    position: sticky;
+    z-index: 44444444;
 }
 
 .a3 {
